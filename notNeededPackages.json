@@ -115,6 +115,12 @@
             "asOfVersion": "1.2.1"
         },
         {
+            "libraryName": "chalk",
+            "typingsPackageName": "chalk",
+            "sourceRepoURL": "https://github.com/chalk/chalk",
+            "asOfVersion": "2.2.0"
+        },
+        {
             "libraryName": "change-case",
             "typingsPackageName": "change-case",
             "sourceRepoURL": "https://github.com/blakeembrey/change-case",
@@ -181,6 +187,12 @@
             "asOfVersion": "2.8.0"
         },
         {
+            "libraryName": "error-stack-parser",
+            "typingsPackageName": "error-stack-parser",
+            "sourceRepoURL": "https://github.com/stacktracejs/error-stack-parser",
+            "asOfVersion": "2.0.0"
+        },
+        {
             "libraryName": "eventemitter2",
             "typingsPackageName": "eventemitter2",
             "sourceRepoURL": "https://github.com/asyncly/EventEmitter2",
@@ -215,6 +227,12 @@
             "typingsPackageName": "fine-uploader",
             "sourceRepoURL": "http://fineuploader.com/",
             "asOfVersion": "5.14.0"
+        },
+        {
+            "libraryName": "flatpickr",
+            "typingsPackageName": "flatpickr",
+            "sourceRepoURL": "https://github.com/chmln/flatpickr",
+            "asOfVersion": "3.1.2"
         },
         {
             "libraryName": "gaea-model",
@@ -317,6 +335,12 @@
             "typingsPackageName": "jsonschema",
             "sourceRepoURL": "https://github.com/tdegrunt/jsonschema",
             "asOfVersion": "1.1.1"
+        },
+        {
+            "libraryName": "jsplumb",
+            "typingsPackageName": "jsplumb",
+            "sourceRepoURL": "https://github.com/jsplumb/jsPlumb",
+            "asOfVersion": "2.5.7"
         },
         {
             "libraryName": "knockout-paging",
